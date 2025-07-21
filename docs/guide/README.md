@@ -5,11 +5,9 @@
 你可以通过[爱发电](https://afdian.com/a/jdnjk)来对我们进行[捐赠](help.md),这些将作为发展服务器的动力❤❤❤
 
 
-
-
 ## 服务器
 ::: warning
-服务器目前分为`小游戏`服务器,`机械动力`和`BCG`服务器！
+服务器目前分为`小游戏`,`机械动力`！
 :::
 ### 小游戏服务器
 IP: paperxiang.eu.org
@@ -22,19 +20,14 @@ IP: paperxiang.eu.org
 :::  
 
 ### 机械动力服务器
-整合包在QQ群内下载
-IP: mc.monday-ovo.top  
-
-### BCG服务器
-整合包在QQ群内下载
-IP: bcg.monday-ovo.top  
-
+整合包在[Modrinth](https://modrinth.com/modpack/ccraftcreate "跳转到下载页面")下载
+IP: mc.monday-ovo.top   
 
 
 ## 登录方式
 小游戏服务器采用离线登录，也可正版登录并进行验证  
 
-机械动力服务器采用外置登录(LittleSkin)
+机械动力服务器采用外置登录[LittleSkin](https://littleskin.cn)
 
 ## 皮肤显示
 正常情况下离线账户应没有皮肤,本服采用LittleSkin皮肤源，可以在LittleSkin注册用户并设置皮肤  
@@ -49,5 +42,4 @@ IP: bcg.monday-ovo.top
 | 名称          | 地址          |
 | ------------- |-------------:|
 | 官网          | https://www.monday-ovo.top |
-| 论坛      | https://bbs.monday-ovo.eu.org      |
-| 检测 | https://status.monday-ovo.top      |  
+| 皮肤站          | https://skin.monday-ovo.top |
