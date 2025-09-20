@@ -1,7 +1,8 @@
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
-//import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { sitemapPlugin } from '@vuepress/plugin-sitemap'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 export default defineUserConfig({
   
   lang: 'zh-CN',
@@ -21,15 +22,7 @@ export default defineUserConfig({
           '/guide/gfq.md',
           '/guide/help.md'
         ],
-      },
-      {
-        text: '协议',
-        children: [
-          '/ly/README.md',
-          '/ly/wjly.md',
-          '/ly/ysly.md'
-        ],
-      },
+      }
     ],
     sidebar: {
       '/guide/': [
@@ -39,16 +32,6 @@ export default defineUserConfig({
             '/guide/README.md',
             '/guide/gfq.md',
             '/guide/help.md'
-          ],
-        },
-      ],
-      '/ly/': [
-        {
-          text: '协议',
-          children: [
-            '/ly/README.md',
-            '/ly/wjly.md',
-            '/ly/ysly.md'
           ],
         },
       ],
@@ -72,7 +55,10 @@ export default defineUserConfig({
     toggleSidebar: '切换侧边栏',
   }),
 
-  /*plugins: [
+  plugins: [
+    sitemapPlugin({
+      hostname: 'https://docs.monday-ovo.top',
+    }),
     docsearchPlugin({
       appId: 'VXFWRUIH25',
       apiKey: '328e575a3431fb48ea09026db382e3ee',
@@ -121,6 +107,6 @@ export default defineUserConfig({
         },
       },
     }),
-  ],*/
+  ],
   bundler: viteBundler(),
 })

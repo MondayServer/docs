@@ -10,6 +10,7 @@
 服务器目前分为`小游戏`,`机械动力`！
 :::
 ### 小游戏服务器
+该服务器时不时开启
 IP: paperxiang.eu.org
 版本：1.8-1.21.3
 
@@ -22,7 +23,6 @@ IP: paperxiang.eu.org
 ### 机械动力服务器
 整合包在[Modrinth](https://modrinth.com/modpack/ccraftcreate "跳转到下载页面")下载
 IP: mc.monday-ovo.top   
-
 
 ## 登录方式
 小游戏服务器采用离线登录，也可正版登录并进行验证  
