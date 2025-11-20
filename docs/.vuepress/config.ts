@@ -15,11 +15,18 @@ export default defineUserConfig({
     
     navbar: [
       {
-        text: '教程',
+        text: '总览',
         children: [
           '/guide/README.md',
           '/guide/gfq.md',
           '/guide/help.md'
+        ],
+      },
+            {
+        text: '服务器',
+        children: [
+          '/zombiecraft/README.md',
+          '/zombiecraft/rules.md'
         ],
       }
     ],
@@ -31,6 +38,14 @@ export default defineUserConfig({
             '/guide/README.md',
             '/guide/gfq.md',
             '/guide/help.md'
+          ],
+        },
+      ],
+            '/zombiecraft/': [
+        {
+          text: '教程',
+          children: [
+            '/zombiecraft/README.md'
           ],
         },
       ],

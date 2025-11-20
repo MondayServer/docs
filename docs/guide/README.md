@@ -7,25 +7,24 @@
 
 ## 服务器
 ::: warning
-服务器目前分为`小游戏`,`机械动力`！
+服务器目前分为`ZombieCraft - 亡者黎明`,`机械动力`！
 :::
-### 小游戏服务器
-该服务器时不时开启
-IP: paperxiang.eu.org
-版本：1.8-1.21.3
-
-[使用此链接添加基岩版服务器](minecraft://?addExternalServer=Monday|play.simpfun.cn:14977 "跳转添加服务器")。
+### ZombieCraft 亡者黎明 服务器
+该服务器为目前主要开放服务器，会长期开放
 ::: tip
-你需要使用[Minecraft](https://www.minecraft.net "跳转到Minecraft官网")的1.8-1.21.3版本,
-基岩版则需要使用最新版本。
-:::  
+服务器目前处于内测状态,可能会多次删档重置!
+:::
+请查看具体文档
+IP: play.simpfun.cn:33951
+
+
 
 ### 机械动力服务器
 整合包在[Modrinth](https://modrinth.com/modpack/ccraftcreate "跳转到下载页面")下载
 IP: mc.monday-ovo.top   
 
 ## 登录方式
-小游戏服务器采用离线登录，也可正版登录并进行验证  
+亡者黎明服务器采用[MondaySkin](https://skin.monday-ovo.top)外置登录 
 
 机械动力服务器采用外置登录[LittleSkin](https://littleskin.cn)
 
