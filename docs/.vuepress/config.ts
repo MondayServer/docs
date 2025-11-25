@@ -45,7 +45,8 @@ export default defineUserConfig({
           text: '教程',
           children: [
             '/zombiecraft/README.md',
-            '/zombiecraft/login.md'
+            '/zombiecraft/login.md',
+            '/zombiecraft/skin.md'
           ],
         },
       ],

@@ -8,6 +8,7 @@ export const routes = Object.fromEntries([
   ["/zombiecraft/", { loader: () => import(/* webpackChunkName: "zombiecraft_index.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/zombiecraft/index.html.js"), meta: {"title":"ZombieCraft 亡者黎明服务器"} }],
   ["/zombiecraft/login.html", { loader: () => import(/* webpackChunkName: "zombiecraft_login.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/zombiecraft/login.html.js"), meta: {"title":"皮肤站登录"} }],
   ["/zombiecraft/rules.html", { loader: () => import(/* webpackChunkName: "zombiecraft_rules.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/zombiecraft/rules.html.js"), meta: {"title":"服务器规则"} }],
+  ["/zombiecraft/skin.html", { loader: () => import(/* webpackChunkName: "zombiecraft_skin.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/zombiecraft/skin.html.js"), meta: {"title":"皮肤站使用教程"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
 
