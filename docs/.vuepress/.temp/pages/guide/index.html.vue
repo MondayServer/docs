@@ -8,13 +8,9 @@
 <p>服务器目前分为<code v-pre>ZombieCraft - 亡者黎明</code>,<code v-pre>机械动力</code>！</p>
 </div>
 <h3 id="zombiecraft-亡者黎明-服务器" tabindex="-1"><a class="header-anchor" href="#zombiecraft-亡者黎明-服务器"><span>ZombieCraft 亡者黎明 服务器</span></a></h3>
-<p>该服务器为目前主要开放服务器，会长期开放</p>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<p>服务器目前处于内测状态,可能会多次删档重置!</p>
-</div>
-<p>请查看具体文档
-IP: play.simpfun.cn:33951</p>
+<p>该服务器为目前主要开放服务器，会长期开放
+请查看具体文档
+IP: zc.monday-ovo.top</p>
 <h3 id="机械动力服务器" tabindex="-1"><a class="header-anchor" href="#机械动力服务器"><span>机械动力服务器</span></a></h3>
 <p>整合包在<a href="https://modrinth.com/modpack/ccraftcreate" title="跳转到下载页面" target="_blank" rel="noopener noreferrer">Modrinth</a>下载
 IP: mc.monday-ovo.top</p>

@@ -25,8 +25,7 @@ export default defineUserConfig({
             {
         text: '服务器',
         children: [
-          '/zombiecraft/README.md',
-          '/zombiecraft/rules.md'
+          '/zombiecraft/README.md'
         ],
       }
     ],
@@ -45,7 +44,8 @@ export default defineUserConfig({
         {
           text: '教程',
           children: [
-            '/zombiecraft/README.md'
+            '/zombiecraft/README.md',
+            '/zombiecraft/login.md'
           ],
         },
       ],

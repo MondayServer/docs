@@ -6,6 +6,7 @@ export const routes = Object.fromEntries([
   ["/guide/gfq.html", { loader: () => import(/* webpackChunkName: "guide_gfq.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/guide/gfq.html.js"), meta: {"title":"联系与交流"} }],
   ["/guide/help.html", { loader: () => import(/* webpackChunkName: "guide_help.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/guide/help.html.js"), meta: {"title":"帮助我们"} }],
   ["/zombiecraft/", { loader: () => import(/* webpackChunkName: "zombiecraft_index.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/zombiecraft/index.html.js"), meta: {"title":"ZombieCraft 亡者黎明服务器"} }],
+  ["/zombiecraft/login.html", { loader: () => import(/* webpackChunkName: "zombiecraft_login.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/zombiecraft/login.html.js"), meta: {"title":"皮肤站登录"} }],
   ["/zombiecraft/rules.html", { loader: () => import(/* webpackChunkName: "zombiecraft_rules.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/zombiecraft/rules.html.js"), meta: {"title":"服务器规则"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/workspaces/docs/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);

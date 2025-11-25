@@ -11,11 +11,8 @@
 :::
 ### ZombieCraft 亡者黎明 服务器
 该服务器为目前主要开放服务器，会长期开放
-::: tip
-服务器目前处于内测状态,可能会多次删档重置!
-:::
 请查看具体文档
-IP: play.simpfun.cn:33951
+IP: zc.monday-ovo.top
 
 
 
