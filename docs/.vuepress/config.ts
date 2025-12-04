@@ -48,7 +48,8 @@ export default defineUserConfig({
             '/zombiecraft/README.md',
             '/zombiecraft/login.md',
             '/zombiecraft/skin.md',
-            '/zombiecraft/tutorial.md'
+            '/zombiecraft/tutorial.md',
+            '/zombiecraft/updatelog.md'
           ],
         },
       ],
